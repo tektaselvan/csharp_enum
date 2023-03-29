@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OEnNpsA50AfV/vdZ/nCaW0Tno68vL3bzPY7cP/HRX/nBk76RAfcYwj0Y6gPk6WLoHBpo5SNhi3JxNUCEm4Jvfg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\csharp_enum\\csharp_enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
